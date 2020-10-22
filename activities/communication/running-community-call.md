@@ -36,7 +36,7 @@ Have each person join the call on a separate connection aligned with our [confer
 
 ## 1. Opening the call
 
-Call-in link: <https://meet.publiccode.net/FoundationforPublicCode>
+Call-in link: <https://meet.publiccode.net/CommunityCalls>
 
 Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
