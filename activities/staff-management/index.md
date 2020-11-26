@@ -28,6 +28,16 @@ When we expect you to be here and how to plan to be somewhere else.
 * [How to travel](travel.md)
 * [How to request reimbursement for expenses](expense.md)
 
+## Operations manual
+
+* Board meetings
+* Finance
+* HR
+* Legal
+* Office
+* Internal tools
+* Member administration
+
 See also:
 
 * [Staff code of conduct](../../organization/staff-code-of-conduct.md)
