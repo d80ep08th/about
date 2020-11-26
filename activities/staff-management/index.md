@@ -30,8 +30,8 @@ When we expect you to be here and how to plan to be somewhere else.
 
 ## Operations manual
 
-* Board meetings
-* Finance
+* [Board meetings](board.md)
+* [Finance](finance.md)
 * HR
 * Legal
 * Office
