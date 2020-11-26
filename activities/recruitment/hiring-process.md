@@ -44,6 +44,7 @@ Questions about the content of the position are routed to Chief Executive. Quest
 ## Operational aspects of recruitment
 
 ### LinkedIn
+
 A LinkedIn job advertising package can be bought. Be mindful that managing the vacancies is connected via your personal LinkedIn account. [Information on the pricing structure and daily budget.](https://www.linkedin.com/help/linkedin/answer/74054/pay-per-click-pricing-for-posting-a-job-faqs?lang=en)
 
 ### StackOverflow
