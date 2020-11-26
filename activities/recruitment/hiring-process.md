@@ -41,6 +41,19 @@ Questions about the content of the position are routed to Chief Executive. Quest
 9. OPS makes the offer to the candidate and negotiates, always in consultation with CE and the director(s).
 10. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor.
 
+## Operational aspects of recruitment
+
+### LinkedIn
+A LinkedIn job advertising package can be bought. Be mindful that managing the vacancies is connected via your personal LinkedIn account. [Information on the pricing structure and daily budget.](https://www.linkedin.com/help/linkedin/answer/74054/pay-per-click-pricing-for-posting-a-job-faqs?lang=en)
+
+### StackOverflow
+
+The log-in credentials are in 1Password and can be accessed by the Operations Coordinator and Chief Executive. The proposal for a basic job advertisement package we received in 2019 was € 5699 for one year. We received two 'concurrent' job slots and could alternate the positions we published. Candidates apply with one mouse click (w/o email), directly from the StackOverflow job opening page. StackOverflow generates (weekly) emails with suggested candidates/matches you might reach out to.
+
+### GitHub Jobs
+
+We haven't used [GitHub Jobs](https://jobs.github.com/faq) yet.
+
 ## Resources for interviewers
 
 For interviewers the following resources are available. Access to these documents, since it might give an candidate insights into the questions we want to ask, is secret and limited to interviewers.
