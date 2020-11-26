@@ -6,9 +6,9 @@ type: Resource
 
 ## Roles in this process
 
-* Head of human resources (HRM), responsible for the hiring process
+* Operations Coordinator (OPS), responsible for the hiring process
 * Lead codebase steward, with a role in the first interview of applicants for codebase stewardship roles
-* Chief Executive (CEO), responsible for who we hire
+* Chief Executive (CE), responsible for who we hire
 * Directors Foundation for Public Code (BOD), responsible for oversight
 
 ## Announcing job opening
@@ -20,25 +20,25 @@ We also use the current team's network to spread awareness of the job opening (v
 * [t9t.io open source jobs board](https://oo.t9t.io/jobs)
 * [fossjobs.net open source jobs board](https://www.fossjobs.net/)
 * [StackOverflow Jobs](https://stackoverflow.com/jobs)
-* LinkedIn page for Foundation for Public Code
+* [LinkedIn page for Foundation for Public Code](https://www.linkedin.com/company/publiccodenet)
 
 Between summer 2019 and summer 2020, most of our new hires discovered us through LinkedIn job ads.
 
 ## Processing reactions of people expressing interest
 
-Questions about the content of the position are routed to chief executive. Questions about the hiring procedure and the conditions are routed to HRM. Applications are also sent to HRM for processing.
+Questions about the content of the position are routed to Chief Executive. Questions about the hiring procedure and the conditions are routed to the Operations Coordinator. Applications are also sent to OPS for processing.
 
 ## Planned recruitment and hiring process
 
 1. Current job openings have no closing date and applications are considered on a rolling basis. When we find a suitable candidate, we hire and close the opening. This means applications are considered ‘by themselves’ and not ‘in competition’ with a certain set of other applications.
-2. HRM confirms receipt to candidates and does first round of evaluation.
-3. HRM brings possibly suitable candidates to the attention of CEO and the role's future supervisor. These 2 make +/- judgement, without consulting each other. If judgement is not equal, a short discussion follows and judgement is made.
-4. HRM notifies candidates (thank you or invitation for interview).
-5. First interview: a lead codebase steward and HRM, approximately 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization (culture, growth, leadership, long/short term)). Half of the interview is spent presenting PublicCode.net, in the other half, the candidate has a chance to present themselves. Immediately after the interview both HRM and CEO score the candidate on the items on the list and determine if the candidate should progress to a second interview. HRM will contact the candidate to inform them.
-6. Second interview: CEO with HRM, also partially based on the pre-established list, and with attention to issues not discussed in the first interview. Approximately. 80-90% of the time is spent on questioning the candidate. Immediately after the interview HRM and CEO score the candidate, based on the list and other impressions gathered. HRM takes this input to CEO, and HRM and CEO determine if the candidate should receive an offer.
-7. CEO and HRM determination of the offer, including salary range and benefits.
-8. Third interview, hopefully a formality, of the preferred candidate with HRM and a BOD member. Decision on making an offer is made after third interview.
-9. HRM makes the offer to the candidate and negotiates, always in consultation with CEO and the director(s).
+2. OPS confirms receipt to candidates and does first round of evaluation.
+3. OPS brings possibly suitable candidates to the attention of CE and the role's future supervisor and / or team members. These 2 make +/- judgement, without consulting each other. If judgement is not equal, a short discussion follows and judgement is made.
+4. OPS notifies candidates (thank you or invitation for interview).
+5. First interview: a lead codebase steward and OPS, approximately 1 hr, partially on the basis of a pre-established list of desirable competences and other characteristics (i.e. fit for role, fit for organization (culture, growth, leadership, long/short term)). Half of the interview is spent presenting PublicCode.net, in the other half, the candidate has a chance to present themselves. Immediately after the interview both OPS and CE score the candidate on the items on the list and determine if the candidate should progress to a second interview. OPS will contact the candidate to inform them.
+6. Second interview: CE with OPS, also partially based on the pre-established list, and with attention to issues not discussed in the first interview. Approximately. 80-90% of the time is spent on questioning the candidate. Immediately after the interview OPS and CE score the candidate, based on the list and other impressions gathered. OPS takes this input to CE, and OPS and CE determine if the candidate should receive an offer.
+7. CE and OPS determination of the offer, including salary range and benefits.
+8. Third interview, hopefully a formality, of the preferred candidate with OPS and a BOD member. Decision on making an offer is made after third interview.
+9. OPS makes the offer to the candidate and negotiates, always in consultation with CE and the director(s).
 10. Signing of contract and starting by the new team member, supervised by their hierarchical supervisor.
 
 ## Resources for interviewers
