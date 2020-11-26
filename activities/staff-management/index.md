@@ -33,6 +33,7 @@ When we expect you to be here and how to plan to be somewhere else.
 * [Board meetings](board.md)
 * [Finance](finance.md)
 * HR
+* Insurances
 * Legal
 * Office
 * Internal tools
